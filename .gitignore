@@ -1,4 +1,13 @@
 /OpenFieldRPG/[Ll]ibrary
 /OpenFieldRPG/[Tt]emp
+/OpenFieldRPG/[Oo]bj
+/OpenFieldRPG/*.csproj
 /OpenFieldRPG/*.sln
 /OpenFieldRPG/.vs
+
+/samples/*/[Ll]ibrary
+/samples/*/[Tt]emp
+/samples/*/[Oo]bj
+/samples/*/*.csproj
+/samples/*/*.sln
+/samples/*/.vs
